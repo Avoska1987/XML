@@ -1,1 +1,5 @@
-
+<ID>1, 2, 3 ...</ID>
+<Title>shot description</Title>
+<Steps>how to find</Steps>
+<Expected Result>What should happening</Expected Result>
+<Actual Result>What&apos happening</Actual Result>
